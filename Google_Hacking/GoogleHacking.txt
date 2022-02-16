@@ -1,8 +1,8 @@
-I-Comment fonctionnent les recherches sur Google
+##I-Comment fonctionnent les recherches sur Google
 Google indexe presque tout ce qui est connecté à Internet, ce qui inclut également différentes informations privées de services mal configurés. Cela peut souvent être utile et tout aussi nocif en même temps. Vous devez vous assurer de ne vous connecter à aucun des services, même si le mot de passe est exposé, car cela pourrait vous causer des ennuis car vous n'en avez pas l'autorisation. Cependant, si vous avez quelque chose d'hébergé en ligne, vous pouvez utiliser certaines des commandes dork sur votre domaine juste pour vous assurer que vous n'avez rien laissé exposé que le pirate peut utiliser pour vous obtenir.
 
 
-II-C'est quoi Google Dorks?
+##II-C'est quoi Google Dorks?
 
 La première étape a été d'essayer de comprendre le terme Google hacking, ce à quoi il fait référence et ce qu'il impliquait. Nous nous sommes donc retrouvés avec un terme qui revenait: Google dorks.
 
@@ -26,7 +26,7 @@ Trouver des vulnérabilités qui permettent de pirater la cible.
 
 Le Google dorking, aussi appelé Google hacking, peut retourner des informations qu’il est difficile de localiser grâce à des recherches dîtes simples. Bien souvent, les résultats de recherche renvoyés par Google sont des informations que le propriétaire du site internet n’avait pas l’intention de dévoiler au public.
 
-III-Quels sont principaux dorks et leur utilité?
+##III-Quels sont principaux dorks et leur utilité?
 
 a-site
 Il retourne les fichiers localisés sur un domaine particulier. Par exemple site:www.monsite.com "terme à rechercher" renverra les pages de www.monsite.com qui contiennent "terme à rechercher".
@@ -46,7 +46,7 @@ Cela vous montrera la version en cache de n'importe quel site Web. Exemple : cac
 
 f-allintext
 
-IV-Exemples de Google Dorking
+##IV-Exemples de Google Dorking
 
 a-Explorer les fichiers LOG pour les identifiants de connexion
 
