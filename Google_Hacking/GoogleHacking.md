@@ -91,3 +91,4 @@ Avec la commande dork suivante, vous pourrez facilement explorer les serveurs FT
 
 ***intitle:"index of" inurl:ftp***
 
+### Refer to this: <https://tryhackme.com/room/googledorking>
