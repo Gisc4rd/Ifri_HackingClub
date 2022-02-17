@@ -1,5 +1,7 @@
 # Google_Hacking_Recap
 
+![Google hacking is interesting](https://github.com/Gisc4rd/images/blob/main/google_hacking.png)
+
 ## I-Comment fonctionnent les recherches sur Google
 
 **Google** indexe presque tout ce qui est connecté à Internet, ce qui inclut également différentes informations privées de services mal configurés. Cela peut souvent être utile et tout aussi nocif en même temps. Vous devez vous assurer de ne vous connecter à aucun des services, même si le mot de passe est exposé, car cela pourrait vous causer des ennuis car vous n'en avez pas l'autorisation. Cependant, si vous avez quelque chose d'hébergé en ligne, vous pouvez utiliser certaines des commandes dork sur votre domaine juste pour vous assurer que vous n'avez rien laissé exposé que le pirate peut utiliser pour vous obtenir.
