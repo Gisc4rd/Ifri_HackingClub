@@ -32,13 +32,16 @@ Le Google dorking, aussi appelé Google hacking, peut retourner des informations
 ## III-Quels sont principaux dorks et leur utilité?
 
 a-**site**
+
 Il retourne les fichiers localisés sur un domaine particulier. Par exemple *site:www.monsite.com* "terme à rechercher" renverra les pages de www.monsite.com qui contiennent "terme à rechercher".
 
 b-**Filetype**
+
 Suivi sans espace par l’extension du fichier souhaité comme DOC, PDF, XLS ou autre, il limite les résultats à un type de document donné
 *filetype:pdf "anonymat"* retournera les documents PDF contenant le mot anonymat.
 
 c-**inurl**
+
 Suivi par une phrase donnée, il retourne tous les résultats avec cette même phrase placée dans l’URL. inurl:"login.php" renverra toutes les pages ayant login.php dans leur url.
 
 d-**intitle**
