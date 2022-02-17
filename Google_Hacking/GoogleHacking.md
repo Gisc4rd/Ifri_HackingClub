@@ -76,7 +76,7 @@ Il s'agit d'un processus pour trouver les fichiers .LOG accidentellement exposé
 
 .env est utilisé par divers frameworks de développement Web populaires pour déclarer des variables générales et des configurations pour les environnements locaux et de développement.
 
-***DB_USERNAME filetype:env
+***DB_USERNAME filetype:env  
 DB_PASSWORD filetype:env***
 
 En utilisant la commande, vous pouvez trouver la liste des sites qui exposent publiquement leur fichier env sur Internet. La plupart des développeurs insèrent leur fichier .env dans le répertoire public principal du site Web, ce qui peut causer de graves dommages à leur site s'il tombe entre les mains de cybercriminels.
