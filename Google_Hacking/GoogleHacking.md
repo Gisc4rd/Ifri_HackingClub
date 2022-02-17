@@ -15,17 +15,17 @@ Grâce à Google Dorks on utilise donc Google comme un outil de hack, on parle d
 
 Il est alors possible de :
 
-Trouver des informations sensibles (des mails stockés en ligne, des mots de passe, ...).
-
-Trouver des pages d'authentification d'application web.
-
-Trouver du matériel connecté à Internet (caméras vidéo, routeurs internet, imprimantes, mais aussi matériel industriel, ...).
-
-Trouver des serveurs web mal configurés, ou installés par défaut.
-
-Trouver les technologies ou des outils sur le serveur web (phpmyadmin, phpinfo(), zones d'administration du site, ...).
-
-Trouver des vulnérabilités qui permettent de pirater la cible.
+> Trouver des informations sensibles (des mails stockés en ligne, des mots de passe, ...).
+> 
+> Trouver des pages d'authentification d'application web.
+> 
+> Trouver du matériel connecté à Internet (caméras vidéo, routeurs internet, imprimantes, mais aussi matériel industriel, ...).
+> 
+> Trouver des serveurs web mal configurés, ou installés par défaut.
+> 
+> Trouver les technologies ou des outils sur le serveur web (phpmyadmin, phpinfo(), zones d'administration du site, ...).
+> 
+> Trouver des vulnérabilités qui permettent de pirater la cible.
 
 Le Google dorking, aussi appelé Google hacking, peut retourner des informations qu’il est difficile de localiser grâce à des recherches dîtes simples. Bien souvent, les résultats de recherche renvoyés par Google sont des informations que le propriétaire du site internet n’avait pas l’intention de dévoiler au public.
 
